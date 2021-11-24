@@ -5,12 +5,17 @@
       <map>
         <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/drawable/ic_banner_foreground.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/drawable/netflixappdesign.xml" value="0.20092592592592592" />
-        <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/layout/activity_constraint_layout.xml" value="0.12" />
+        <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/layout-land/activity_constraint_layout.xml" value="0.2" />
+        <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/layout-large/activity_constraint_layout.xml" value="0.16" />
+        <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/layout-sw600dp/activity_constraint_layout.xml" value="0.16" />
+        <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/layout-xlarge/activity_constraint_layout.xml" value="0.264" />
+        <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/layout/activity_constraint_layout.xml" value="0.1" />
         <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/layout/activity_linear_layout.xml" value="0.1" />
         <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/layout/activity_relative_layout.xml" value="0.152" />
         <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/mipmap-anydpi-v26/blacklogo.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/mipmap-anydpi-v26/ic_banner.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ayman/AndroidStudioProjects/Netflixx/app/src/main/res/mipmap-anydpi-v26/netflixappdesign.xml" value="0.11794871794871795" />
       </map>
     </option>
   </component>
