@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">terminal</string>
+    <string name="response" tools:ignore="DuplicateDefinition">Response</string>
+
+</resources>
